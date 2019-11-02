@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: mnkMisc
+## Notes: Loot/Rep/Tradeskill noticess and misc configs
+## Author: runamonk
+## X-Embeds: LibDataBroker-1.1
+## Version: 1
+##Dependencies: mnkLibs
+
+mnkMisc.lua

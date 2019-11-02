@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title: mnkChat
+## Notes: Minor chat modifications
+## Author: runamonk
+## X-Embeds: LibDataBroker-1.1
+## Version: 1
+##Dependencies: mnkLibs
+## SavedVariablesPerCharacter: mnkChat_db
+
+mnkChat.lua

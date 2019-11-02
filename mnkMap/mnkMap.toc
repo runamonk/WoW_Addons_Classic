@@ -1,0 +1,9 @@
+## Interface: 80000
+## Version: 1
+## Title: mnkMap
+## Notes: Custom world map
+## Author: runmaonk
+## Dependencies: Blizzard_WorldMap
+## SavedVariables:
+
+mnkMap.lua

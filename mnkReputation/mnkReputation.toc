@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title: mnkReps
+## Notes: Show reputation for specific factions in LDB display. Also auto switches tabards.
+## Author: runamonk
+## X-Embeds: LibDataBroker-1.1
+## Version: 1
+## Dependencies: mnkLibs
+## SavedVariablesPerCharacter: mnkReputation_db
+
+mnkReputation.lua
